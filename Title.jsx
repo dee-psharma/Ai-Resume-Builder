@@ -10,3 +10,4 @@ const Title = ({title,description}) => {
 }
 
 export default Title
+// TITLE.JSX is a simple component that takes in a title and description as props and renders them in a styled manner. The title is displayed as a large heading, while the description is shown as a smaller paragraph below it. The component is centered on the page and has some margin at the top for spacing.
